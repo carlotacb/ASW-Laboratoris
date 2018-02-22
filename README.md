@@ -1,2 +1,16 @@
-# LABS-ASW
-[Català] Laboratoris assignatura Aplicacions i Serveis Web FIB (Facultad de la Informatica de Barcelona)
+# LABORATORIS APLICACIONS I SERVEIS WEB
+
+Carlota Catot Bragós
+Aleix Balletbò
+
+Nota: 10 (Laboratori 2 inacabat)
+
+[Laboratori 1: Introducció a tecnologies Web. Java Servlets i HttpClient]()
+
+[Laboratori 2: Introducció a tecnologies Web. PHP i XML]()
+
+[Laboratori 3: Introducció a tecnologies Web. JavaScript, AJAX i JSON]()
+
+[Laboratori 4: Serveis web amb SOAP + WSDL]()
+
+[Laboratori 5: Serveis web amb REST]()
