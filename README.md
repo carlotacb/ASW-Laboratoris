@@ -1,9 +1,12 @@
 # LABORATORIS APLICACIONS I SERVEIS WEB
 
 Carlota Catot Bragós
+
 Aleix Balletbò
 
-Nota: 10 (Laboratori 2 inacabat)
+
+**Nota: 10** (Laboratori 2 inacabat)
+
 
 [Laboratori 1: Introducció a tecnologies Web. Java Servlets i HttpClient]()
 
