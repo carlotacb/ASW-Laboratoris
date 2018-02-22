@@ -1,8 +1,6 @@
 # LABORATORIS APLICACIONS I SERVEIS WEB
 
-Carlota Catot Bragós
-
-Aleix Balletbò
+Carlota Catot Bragós i Aleix Balletbò
 
 
 [Laboratori 1: Introducció a tecnologies Web. Java Servlets i HttpClient]()
