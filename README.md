@@ -5,9 +5,6 @@ Carlota Catot Bragós
 Aleix Balletbò
 
 
-**Nota: 10** (Laboratori 2 inacabat)
-
-
 [Laboratori 1: Introducció a tecnologies Web. Java Servlets i HttpClient]()
 
 [Laboratori 2: Introducció a tecnologies Web. PHP i XML]()
@@ -17,3 +14,6 @@ Aleix Balletbò
 [Laboratori 4: Serveis web amb SOAP + WSDL]()
 
 [Laboratori 5: Serveis web amb REST]()
+
+
+**Nota: 10** (Laboratori 2 inacabat)
