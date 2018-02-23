@@ -62,7 +62,7 @@ Bàsicament, allò que haureu de fer és afegir el codi necessari al mètode doP
 Un cop ja pugueu inserir tweets des del navegador, procediu a fer el Tercer Commit. Torneu a la pestanya "Git repositories", cliqueu amb el botó dret del ratolí a sobre l'arrel del vostre repositori "waslab01 [master]" i seleccioneu "Commit ...". Seleccioneu l'únic fitxer que heu modificat: waslab01_ss/src/wallOfTweets/WoTServlet.java. On diu "Commit message" escriviu-hi "tasca #3 finalitzada" i  premeu el botó "Commit and Push".
 
 
-## Tasca 4:
+### Tasca 4:
 
 En aquesta tasca fareu que el vostre client SimpleFluentClient.java pugui demanar la inserció d'un nou tweet tal com ho fa el navegador quan l'usuari omple el formulari html. Per comprovar que el tweet s'afegeix amb èxit, afegiu el troç de codi necessari abans del codi existent que fa la consulta del contingut del "Wall of Tweets".
 
@@ -73,7 +73,7 @@ Fetes aquestes modificacions, si executeu ara l'aplicació waslab01_cs veureu qu
 Un cop tot funcioni correctament, procediu a fer el Quart Commit. Torneu a la pestanya "Git repositories", cliqueu amb el botó dret del ratolí a sobre l'arrel del vostre repositori "waslab01 [master]" i seleccioneu "Commit ...". Seleccioneu els dos fitxers que heu modificat: waslab01_cs/src/asw01cs/SimpleFluentClient.java i waslab01_ss/src/wallOfTweets/WoTServlet.java. On diu "Commit message" escriviu-hi "tasca #4 finalitzada" i  premeu el botó "Commit and Push".
 
 
-## Tasca 5:
+### Tasca 5:
 
 Ara us podeu relaxar una mica perquè per dur a terme aquesta darrera tasca disposareu de més temps. Com a contrapartida, les intruccions que us donaré no seran tan precises. Es tracta, bàsicament, que l'aplicació web "Wall of Tweets" (waslab01_ss) i més concretament, la classe WoTServlet.java implementi la funcionalitat d'esborrar tweets i que tant el client web (generat pel propi WotSevlet a través de l'operació printHTMLresult) com el client Java SimpleFluentClient.java la puguin invocar amb èxit. Aquestes són les restriccions que haureu de satisfer:
 
