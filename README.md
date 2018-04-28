@@ -1,6 +1,6 @@
 # Laboratoris ASW
 
-En aquest repositori podeu trobar les pràctiques de l'assignatura d'[Aplicacións i Serveis Web](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASW) a la [Facultad de Informática de Barcelona](https://www.fib.upc.edu/ca/inici) - [UPC](http://www.upc.edu/ca), realitzada durant el quatrimestre de tardor de 2017/2018.
+En aquest repositori podeu trobar les pràctiques de l'assignatura d'[Aplicacións i Serveis Web](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/ASW) a la [Facultad d'Informática de Barcelona](https://www.fib.upc.edu/ca/inici) - [UPC](http://www.upc.edu/ca), realitzada durant el quatrimestre de tardor de 2017/2018.
 
 Practiques realitzades:
 
