@@ -16,6 +16,13 @@ Practiques realitzades:
 
 ## Autors:
 
-
 * **Aleix Balletbó** - [AleixBalletbo](https://github.com/AleixBalletbo)
 * **Carlota Catot** - [carlotacb](https://github.com/carlotacb)
+
+Projectes realitzats:
+
+* [Lliurament 1: Issue Tracker amb Ruby on Rails](https://github.com/carlotacb/IssueTracker) - Nota: 9
+
+* [Lliurament 2: API pel Issue Tracker de la primera entrega](https://github.com/carlotacb/IssueTracker/tree/master/api) - Nota: 7.5
+
+* [Lliurament 3: Front End pel Issue Tracker amb Vue.js](https://github.com/carlotacb/IssueTracker_FrontEnd) - Nota: 9.5
