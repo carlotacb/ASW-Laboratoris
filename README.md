@@ -26,3 +26,10 @@ En aquest repositori podeu trobar les pràctiques de l'assignatura d'[Aplicació
 * [Lliurament 2: API pel Issue Tracker de la primera entrega](https://github.com/carlotacb/IssueTracker/tree/master/api) - Nota: 7.5
 
 * [Lliurament 3: Front End pel Issue Tracker amb Vue.js](https://github.com/carlotacb/IssueTracker_FrontEnd) - Nota: 9.5
+
+### Authors
+
+* **Aleix Balletbó** - Co-developer - [AleixBalletbo](https://github.com/AleixBalletbo)
+* **Xavier Campos** - Co-developer - [xavicamposn](https://github.com/xavicamposn)
+* **Guillem Castro** - Co-developer - [GuillemCastro](https://github.com/GuillemCastro)
+* **Carlota Catot** - Co-developer - [carlotacb](https://github.com/carlotacb)
